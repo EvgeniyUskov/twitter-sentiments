@@ -1,0 +1,16 @@
+PODS:
+  - Swifter (1.4.7)
+
+DEPENDENCIES:
+  - Swifter (~> 1.4.7)
+
+SPEC REPOS:
+  trunk:
+    - Swifter
+
+SPEC CHECKSUMS:
+  Swifter: 2327ef5d872c638aebab79646ce494af508b0c8f
+
+PODFILE CHECKSUM: 021d4a96f6e4e7d30bcb17dfe01c2015717f8a0b
+
+COCOAPODS: 1.8.4
